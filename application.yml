@@ -1,6 +1,6 @@
 info:
   description: Spring Cloud Samples
-  url: weibulusi
+  url: niuroutang
 eureka:
   client:
     serviceUrl:
